@@ -14,8 +14,7 @@ Played with controller (Xbox), keyboard inputs are not implemented.
 -Right Bumper for heavy attack
 
 -Left Trigger for sheild
-While Sheild is up:
-> 
-Right Trigger for light deflect
-Right Bumper for heavy deflect
->
+While Sheild is up: 
+  Right Trigger for light deflect
+  Right Bumper for heavy deflect
+
