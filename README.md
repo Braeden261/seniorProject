@@ -4,7 +4,7 @@ This game is a hack and slash action game inspired by the work of From Software 
 
 Played with controller (Xbox), keyboard inputs are not implemented.
 
-##Controls
+## Controls
 
 - Left Analog Stick for player movement
 - Right Analog Stick for camera movement
