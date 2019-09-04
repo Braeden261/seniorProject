@@ -9,12 +9,14 @@ Played with controller (Xbox), keyboard inputs are not implemented.
 - Left Analog Stick for player movement
 - Right Analog Stick for camera movement
 
-- Click Right Analog Stick for Lock On (changes dodges to omni-directional dodging (*not complete*) )
-### While Locked On, Camera controls are disabled
-### While Locked On:
+- Click Right Analog Stick for Lock On
+### While Locked On...
+- Camera controls are disabled
+- Changes rolling to omni-directional rolling (*not complete*) 
+### Extra Controls While Locked On:
 - Move Right Analog stick Left or Right to switch targeted enemy
 
-- B button on Xbox controller for dodging
+- B button on Xbox controller for rolling
 - Right Trigger for light attack (*not complete*)
 - Right Bumper for heavy attack (*not complete*)
 
