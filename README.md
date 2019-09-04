@@ -18,7 +18,7 @@ While Locked On:
 - Right Trigger for light attack *not complete*
 - Right Bumper for heavy attack *not complete*
 
--Left Trigger for sheild *not complete* 
+- Left Trigger for sheild *not complete* 
 While Sheild is up: 
 - Right Trigger for light deflect *not complete*
 - Right Bumper for heavy deflect *not complete*
