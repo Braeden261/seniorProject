@@ -9,7 +9,7 @@ Played with controller (Xbox), keyboard inputs are not implemented.
 - Left Analog Stick for player movement
 - Right Analog Stick for camera movement
 
-- Click Right Analog Stick for Lock On (changes dodges to omni-directional dodging *not complete*)
+- Click Right Analog Stick for Lock On (changes dodges to omni-directional dodging (*not complete*) )
 ### While Locked On, Camera controls are disabled
 ### While Locked On:
 - Move Right Analog stick Left or Right to switch targeted enemy
