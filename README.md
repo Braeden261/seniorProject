@@ -15,12 +15,12 @@ Played with controller (Xbox), keyboard inputs are not implemented.
 - Move Right Analog stick Left or Right to switch targeted enemy
 
 - B button on Xbox controller for dodging
-- Right Trigger for light attack *not complete*
-- Right Bumper for heavy attack *not complete*
+- Right Trigger for light attack (*not complete*)
+- Right Bumper for heavy attack (*not complete*)
 
-- Left Trigger for sheild *not complete* 
+- Left Trigger for sheild (*not complete*)
 ### While Sheild is up: 
-- Right Trigger for light deflect *not complete*
-- Right Bumper for heavy deflect *not complete*
+- Right Trigger for light deflect (*not complete*)
+- Right Bumper for heavy deflect (*not complete*)
 
 
