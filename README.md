@@ -5,16 +5,29 @@ This game is a hack and slash action game inspired by the work of From Software 
 Played with controller (Xbox), keyboard inputs are not implemented.
 
 ## Controls
-
+```
 - Left Analog Stick for player movement
 - Right Analog Stick for camera movement
-- Click Right Analog Stick for Lock On (changes dodges to omni-directional dodging) (not complete)
-- B button on Xbox controller for dodging
-- Right Trigger for light attack
-- Right Bumper for heavy attack
-
--Left Trigger for sheild
-While Sheild is up: 
-- Right Trigger for light deflect
-- Right Bumper for heavy deflect
-
+```
+### Rolling 
+```
+- Gamepad Right Face Button (B button on Xbox controller) for rolling
+```
+### Attack 
+```
+- Right Trigger for light attack (*not complete*)
+- Right Bumper for heavy attack (*not complete*)
+```
+### Sheild 
+```
+- Left Trigger to bring up shield (*not complete*)
+- While shield is up, press Right Trigger for light deflect (*not complete*)
+- While shield is up, press Right Bumper for heavy deflect (*not complete*)
+```
+### Enemy Lock On
+```
+- Click Right Analog Stick for Lock On
+- While locked on, camera controls are disabled
+- Move Right Analog stick Left or Right to switch targeted enemy
+- While locked on, rolling changes to omni-directional rolling (*not complete*) 
+```
