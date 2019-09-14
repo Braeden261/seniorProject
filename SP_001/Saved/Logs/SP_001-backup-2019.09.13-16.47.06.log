@@ -1,0 +1,1507 @@
+﻿Log file open, 09/13/19 12:42:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SP_001
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.757686
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/nvTextureTools/Win64/nvtt_64.dll' (GetLastError=126)
+LogWindows:   Missing import: MSVCR120.dll
+LogWindows:   Looked in: ../../../Engine/Binaries/Win64
+LogWindows:   Looked in: ../../../../../Senior Project/seniorProject/SP_001/Binaries/Win64
+LogWindows:   Looked in: J:\Senior Project\seniorProject\SP_001\Binaries\Win64
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.072s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: J:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.09.13-16.42.34:458][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.13-16.42.34:458][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.13-16.42.34:465][  0]LogHAL: Display: Platform has ~ 32 GB [34289106944 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.13-16.42.34:465][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.09.13-16.42.34:465][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.13-16.42.34:466][  0]LogInit: Computer: BRAEDEN-PC
+[2019.09.13-16.42.34:466][  0]LogInit: User: Braeden
+[2019.09.13-16.42.34:466][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.09.13-16.42.34:466][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.13-16.42.34:467][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.13-16.42.34:467][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.13-16.42.34:467][  0]LogMemory: Process Physical Memory: 103.37 MB used, 103.37 MB peak
+[2019.09.13-16.42.34:467][  0]LogMemory: Process Virtual Memory: 93.08 MB used, 93.08 MB peak
+[2019.09.13-16.42.34:467][  0]LogMemory: Physical Memory: 15487.05 MB used,  17213.59 MB free, 32700.64 MB total
+[2019.09.13-16.42.34:467][  0]LogMemory: Virtual Memory: 4662.46 MB used,  17213.59 MB free, 134217728.00 MB total
+[2019.09.13-16.42.34:621][  0]LogInit: Using OS detected language (en-US).
+[2019.09.13-16.42.34:621][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.13-16.42.34:624][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.13-16.42.34:900][  0]LogStreaming: Display: Took  0.280s to InitEngineTextLocalization.
+[2019.09.13-16.42.34:901][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.13-16.42.34:951][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.13-16.42.34:951][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.13-16.42.35:280][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.09.13-16.42.35:280][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.13-16.42.35:324][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.09.13-16.42.35:324][  0]LogD3D11RHI:       4053/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.09.13-16.42.35:325][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.13-16.42.35:325][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.13-16.42.35:325][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.13-16.42.35:334][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.13-16.42.35:334][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.13-16.42.35:335][  0]LogWindows: EnumDisplayDevices:
+[2019.09.13-16.42.35:335][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.09.13-16.42.35:335][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.09.13-16.42.35:335][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.09.13-16.42.35:336][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.09.13-16.42.35:336][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.13-16.42.35:336][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.09.13-16.42.35:336][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.09.13-16.42.35:336][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.09.13-16.42.35:336][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.09.13-16.42.35:366][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.13-16.42.35:391][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.13-16.42.35:496][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../Senior Project/seniorProject/SP_001/Intermediate/Shaders/WorkingDirectory/24964/).
+[2019.09.13-16.42.35:496][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Braeden/AppData/Local/Temp/UnrealShaderWorkingDir/1144E03E440179F53FB068B7E695D5AE/'.
+[2019.09.13-16.42.35:937][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.09.13-16.42.35:954][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.09.13-16.42.35:970][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.09.13-16.42.35:986][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.09.13-16.42.36:003][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.09.13-16.42.36:019][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.09.13-16.42.36:034][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.09.13-16.42.36:048][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.09.13-16.42.36:058][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.13-16.42.36:126][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.09.13-16.42.36:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.13-16.42.36:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.13-16.42.36:216][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.13-16.42.36:216][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.13-16.42.36:229][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.09.13-16.42.36:243][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.09.13-16.42.36:256][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.09.13-16.42.36:271][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.09.13-16.42.36:282][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.09.13-16.42.36:282][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.13-16.42.36:517][  0]LogXGEController: Cleaning working directory: C:/Users/Braeden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.13-16.42.36:517][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.13-16.42.36:517][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.13-16.42.36:517][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.13-16.42.37:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.13-16.42.37:418][  0]LogDerivedDataCache: Loaded boot cache 0.22s 71MB C:/Users/Braeden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.13-16.42.37:418][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Braeden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.09.13-16.42.37:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Senior Project/seniorProject/SP_001/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.13-16.42.37:418][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.13-16.42.37:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Senior Project/seniorProject/SP_001/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.13-16.42.37:418][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.13-16.42.37:433][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.13-16.42.37:445][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Braeden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.13-16.42.37:445][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.13-16.42.37:445][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.13-16.42.37:459][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.13-16.42.37:462][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.13-16.42.37:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.13-16.42.37:572][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2019.09.13-16.42.37:830][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.13-16.42.38:008][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.09.13-16.42.38:042][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.09.13-16.42.38:043][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.13-16.42.38:043][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.13-16.42.38:043][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.09.13-16.42.38:141][  0]LogNetVersion: SP_001 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3648971250)
+[2019.09.13-16.42.38:634][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.050960 seconds
+[2019.09.13-16.42.38:638][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.09.13-16.42.38:638][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.09.13-16.42.38:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.13-16.42.40:375][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.13-16.42.40:394][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.13-16.42.40:662][  0]SourceControl: Source control is disabled
+[2019.09.13-16.42.40:662][  0]SourceControl: Source control is disabled
+[2019.09.13-16.42.40:683][  0]SourceControl: Source control is disabled
+[2019.09.13-16.42.40:692][  0]SourceControl: Source control is disabled
+[2019.09.13-16.42.41:136][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.13-16.42.41:316][  0]LogOcInput: OculusInput pre-init called
+[2019.09.13-16.42.41:424][  0]LogEngine: Initializing Engine...
+[2019.09.13-16.42.41:426][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.09.13-16.42.41:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.13-16.42.41:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.13-16.42.41:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.13-16.42.41:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.13-16.42.41:602][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.13-16.42.41:632][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.13-16.42.41:711][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.13-16.42.41:746][  0]LogInit: FAudioDevice initialized.
+[2019.09.13-16.42.41:746][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.13-16.42.41:850][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Braeden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.13-16.42.41:855][  0]LogInit: Texture streaming: Enabled
+[2019.09.13-16.42.41:894][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.13-16.42.41:917][  0]LogInit: Transaction tracking system initialized
+[2019.09.13-16.42.41:974][  0]BlueprintLog: New page: Editor Load
+[2019.09.13-16.42.42:271][  0]LocalizationService: Localization service is disabled
+[2019.09.13-16.42.42:659][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.13-16.42.42:660][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.13-16.42.42:660][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.13-16.42.42:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.13-16.42.42:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.13-16.42.42:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.13-16.42.42:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.13-16.42.42:988][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/seniorProject/SP_001/Content/' took 0.02s
+[2019.09.13-16.42.42:988][  0]SourceControl: Source control is disabled
+[2019.09.13-16.42.42:989][  0]Cmd: MAP LOAD FILE="../../../../../Senior Project/seniorProject/SP_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.13-16.42.42:990][  0]LightingResults: New page: Lighting Build
+[2019.09.13-16.42.42:994][  0]MapCheck: New page: Map Check
+[2019.09.13-16.42.42:994][  0]LightingResults: New page: Lighting Build
+[2019.09.13-16.42.43:766][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.13-16.42.43:827][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.13-16.42.43:858][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.13-16.42.43:903][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.781ms to complete.
+[2019.09.13-16.42.43:903][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.915
+[2019.09.13-16.42.44:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.13-16.42.44:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.13-16.42.44:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.13-16.42.44:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.13-16.42.44:083][  0]LogCollectionManager: Loaded 0 collections in 0.001160 seconds
+[2019.09.13-16.42.44:133][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/seniorProject/SP_001/Saved/Collections/' took 0.01s
+[2019.09.13-16.42.44:133][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/seniorProject/SP_001/Content/Developers/Braeden/Collections/' took 0.01s
+[2019.09.13-16.42.44:133][  0]LogFileCache: Scanning file cache for directory 'J:/Senior Project/seniorProject/SP_001/Content/Collections/' took 0.01s
+[2019.09.13-16.42.44:133][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.13-16.42.44:142][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2572 classes and 603 folders.
+[2019.09.13-16.42.44:149][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.09.13-16.42.44:255][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.09.13-16.42.44:271][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.09.13-16.42.44:397][  0]LogSlate: Took 0.000883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.13-16.42.44:400][  0]LogSlate: Took 0.000995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.13-16.42.44:408][  0]LogSlate: Took 0.001334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.13-16.42.44:493][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.13-16.42.44:576][  0]LogSlate: Took 0.001186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.13-16.42.44:647][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.09.13-16.42.44:647][  0]LogLoad: (Engine Initialization) Total time: 13.56 seconds
+[2019.09.13-16.42.44:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.13-16.42.44:692][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.13-16.42.44:747][  1]LogAssetRegistry: Asset discovery search completed in 7.1985 seconds
+[2019.09.13-16.42.44:749][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.13-16.42.44:749][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.09.13-16.46.18:272][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.13-16.46.18:355][878]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.13-16.46.18:368][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.13-16.46.18:368][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.13-16.46.18:382][878]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 13, 2019, 8:46:18 AM)
+[2019.09.13-16.46.18:382][878]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.13-16.46.18:399][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016596s)
+[2019.09.13-16.46.18:399][878]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.13-16.46.18:400][878]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.09.13-16.46.18:400][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017706s)
+[2019.09.13-16.46.18:481][878]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.13-16.46.18:498][878]LogInit: FAudioDevice initialized.
+[2019.09.13-16.46.18:546][878]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.13-16.46.18:553][878]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.13-12.46.18
+[2019.09.13-16.46.18:565][878]LogWorld: Bringing up level for play took: 0.017712
+[2019.09.13-16.46.18:586][878]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2019.09.13-16.46.18:588][878]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.355
+[2019.09.13-16.46.18:589][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.13-16.46.29:548][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.13-16.46.29:550][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.13-16.46.29:587][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.13-16.46.29:587][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.13-16.46.29:609][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.13-16.46.29:651][190]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.13-16.46.30:497][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.13-16.46.30:605][301]LogPlayLevel: Launcher Device ID: WindowsNoEditor@BRAEDEN-PC
+[2019.09.13-16.46.30:614][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.13-16.46.30:615][301]LogCook: Display: Creating asset registry
+[2019.09.13-16.46.30:626][301]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.13-16.46.31:080][301]LogCook: Display: Discovering localized assets
+[2019.09.13-16.46.31:101][301]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2019.09.13-16.46.31:103][301]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2019.09.13-16.46.31:138][301]LogCook: Display: Cooked content cleared for platform MacClient
+[2019.09.13-16.46.31:139][301]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2019.09.13-16.46.31:174][301]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2019.09.13-16.46.31:175][301]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2019.09.13-16.46.31:209][301]LogCook: Display: Cooked content cleared for platform MacServer
+[2019.09.13-16.46.31:210][301]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2019.09.13-16.46.31:243][301]LogCook: Display: Cooked content cleared for platform Mac
+[2019.09.13-16.46.31:244][301]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2019.09.13-16.46.31:279][301]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2019.09.13-16.46.31:280][301]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2019.09.13-16.46.31:315][301]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.09.13-16.46.31:506][301]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.09.13-16.46.31:540][301]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2019.09.13-16.46.31:541][301]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2019.09.13-16.46.31:575][301]LogCook: Display: Cooked content cleared for platform Windows
+[2019.09.13-16.46.31:576][301]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2019.09.13-16.46.31:609][301]LogCook: Display: Cooked content cleared for platform Android
+[2019.09.13-16.46.31:610][301]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2019.09.13-16.46.31:645][301]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2019.09.13-16.46.31:646][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2019.09.13-16.46.31:680][301]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2019.09.13-16.46.31:681][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2019.09.13-16.46.31:715][301]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2019.09.13-16.46.31:716][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2019.09.13-16.46.31:753][301]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2019.09.13-16.46.31:754][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2019.09.13-16.46.31:788][301]LogCook: Display: Cooked content cleared for platform Android_ETC1a
+[2019.09.13-16.46.31:789][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1a invalidating cook
+[2019.09.13-16.46.31:822][301]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2019.09.13-16.46.31:824][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2019.09.13-16.46.31:856][301]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2019.09.13-16.46.31:857][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2019.09.13-16.46.31:891][301]LogCook: Display: Cooked content cleared for platform AndroidClient
+[2019.09.13-16.46.31:892][301]LogCook: Display: Unable to read previous cook inisettings for platform AndroidClient invalidating cook
+[2019.09.13-16.46.31:926][301]LogCook: Display: Cooked content cleared for platform Android_ASTCClient
+[2019.09.13-16.46.31:927][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTCClient invalidating cook
+[2019.09.13-16.46.31:962][301]LogCook: Display: Cooked content cleared for platform Android_ATCClient
+[2019.09.13-16.46.31:963][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATCClient invalidating cook
+[2019.09.13-16.46.32:000][301]LogCook: Display: Cooked content cleared for platform Android_DXTClient
+[2019.09.13-16.46.32:001][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXTClient invalidating cook
+[2019.09.13-16.46.32:036][301]LogCook: Display: Cooked content cleared for platform Android_ETC1Client
+[2019.09.13-16.46.32:037][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1Client invalidating cook
+[2019.09.13-16.46.32:072][301]LogCook: Display: Cooked content cleared for platform Android_ETC1aClient
+[2019.09.13-16.46.32:073][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1aClient invalidating cook
+[2019.09.13-16.46.32:107][301]LogCook: Display: Cooked content cleared for platform Android_ETC2Client
+[2019.09.13-16.46.32:109][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2Client invalidating cook
+[2019.09.13-16.46.32:142][301]LogCook: Display: Cooked content cleared for platform Android_PVRTCClient
+[2019.09.13-16.46.32:144][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTCClient invalidating cook
+[2019.09.13-16.46.32:178][301]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2019.09.13-16.46.32:179][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2019.09.13-16.46.32:213][301]LogCook: Display: Cooked content cleared for platform Android_MultiClient
+[2019.09.13-16.46.32:214][301]LogCook: Display: Unable to read previous cook inisettings for platform Android_MultiClient invalidating cook
+[2019.09.13-16.46.32:248][301]LogCook: Display: Cooked content cleared for platform HTML5
+[2019.09.13-16.46.32:249][301]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2019.09.13-16.46.32:283][301]LogCook: Display: Cooked content cleared for platform IOSClient
+[2019.09.13-16.46.32:284][301]LogCook: Display: Unable to read previous cook inisettings for platform IOSClient invalidating cook
+[2019.09.13-16.46.32:321][301]LogCook: Display: Cooked content cleared for platform IOS
+[2019.09.13-16.46.32:323][301]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2019.09.13-16.46.32:356][301]LogCook: Display: Cooked content cleared for platform TVOSClient
+[2019.09.13-16.46.32:357][301]LogCook: Display: Unable to read previous cook inisettings for platform TVOSClient invalidating cook
+[2019.09.13-16.46.32:391][301]LogCook: Display: Cooked content cleared for platform TVOS
+[2019.09.13-16.46.32:392][301]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2019.09.13-16.46.32:426][301]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2019.09.13-16.46.32:427][301]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2019.09.13-16.46.32:462][301]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2019.09.13-16.46.32:463][301]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2019.09.13-16.46.32:502][301]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2019.09.13-16.46.32:503][301]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2019.09.13-16.46.32:542][301]LogCook: Display: Cooked content cleared for platform Linux
+[2019.09.13-16.46.32:543][301]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2019.09.13-16.46.32:577][301]LogCook: Display: Cooked content cleared for platform Lumin
+[2019.09.13-16.46.32:578][301]LogCook: Display: Unable to read previous cook inisettings for platform Lumin invalidating cook
+[2019.09.13-16.46.32:611][301]LogCook: Display: Sandbox cleanup took 1.510 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin  iterative false
+[2019.09.13-16.46.33:192][301]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2019.09.13-16.46.33:389][302]LogCook: Display: Cooked packages 0 Packages Remain 391 Total 391
+[2019.09.13-16.46.33:496][303]LogCook: Display: Cooked packages 0 Packages Remain 391 Total 391
+[2019.09.13-16.46.33:605][304]LogCook: Display: Cooked packages 0 Packages Remain 391 Total 391
+[2019.09.13-16.46.33:611][304]LogAIModule: Creating AISystem for world Entry
+[2019.09.13-16.46.33:715][305]LogCook: Display: Cooked packages 0 Packages Remain 392 Total 392
+[2019.09.13-16.46.33:824][306]LogCook: Display: Cooked packages 0 Packages Remain 392 Total 392
+[2019.09.13-16.46.33:952][307]LogCook: Display: Cooked packages 0 Packages Remain 392 Total 392
+[2019.09.13-16.46.34:063][308]LogCook: Display: Cooked packages 0 Packages Remain 392 Total 392
+[2019.09.13-16.46.34:111][308]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.09.13-16.46.34:172][309]LogCook: Display: Cooked packages 15 Packages Remain 391 Total 406
+[2019.09.13-16.46.34:278][310]LogCook: Display: Cooked packages 15 Packages Remain 391 Total 406
+[2019.09.13-16.46.34:373][311]LogCook: Display: Cooked packages 65 Packages Remain 390 Total 455
+[2019.09.13-16.46.34:488][312]LogCook: Display: Cooked packages 110 Packages Remain 389 Total 499
+[2019.09.13-16.46.34:579][313]LogCook: Display: Cooked packages 160 Packages Remain 388 Total 548
+[2019.09.13-16.46.34:691][314]LogCook: Display: Cooked packages 160 Packages Remain 388 Total 548
+[2019.09.13-16.46.34:807][315]LogCook: Display: Cooked packages 201 Packages Remain 387 Total 588
+[2019.09.13-16.46.34:921][316]LogCook: Display: Cooked packages 207 Packages Remain 386 Total 593
+[2019.09.13-16.46.35:028][317]LogCook: Display: Cooked packages 207 Packages Remain 386 Total 593
+[2019.09.13-16.46.35:141][318]LogCook: Display: Cooked packages 209 Packages Remain 385 Total 594
+[2019.09.13-16.46.35:301][319]LogCook: Display: Cooked packages 240 Packages Remain 384 Total 624
+[2019.09.13-16.46.35:408][320]LogCook: Display: Cooked packages 251 Packages Remain 383 Total 634
+[2019.09.13-16.46.35:453][321]LogCook: Display: Cooked packages 301 Packages Remain 382 Total 683
+[2019.09.13-16.46.35:561][322]LogCook: Display: Cooked packages 304 Packages Remain 381 Total 685
+[2019.09.13-16.46.35:669][323]LogCook: Display: Cooked packages 351 Packages Remain 380 Total 731
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 379 Total 755
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 378 Total 754
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 377 Total 753
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 376 Total 752
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 375 Total 751
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 374 Total 750
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 373 Total 749
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 372 Total 748
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 371 Total 747
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 370 Total 746
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 369 Total 745
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 368 Total 744
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 367 Total 743
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 366 Total 742
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 365 Total 741
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 364 Total 740
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 363 Total 739
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 362 Total 738
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 361 Total 737
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 360 Total 736
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 359 Total 735
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 358 Total 734
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 357 Total 733
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 356 Total 732
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 355 Total 731
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 354 Total 730
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 353 Total 729
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 352 Total 728
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 351 Total 727
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 350 Total 726
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 349 Total 725
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 348 Total 724
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 347 Total 723
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 346 Total 722
+[2019.09.13-16.46.35:744][323]LogCook: Display: Cooked packages 376 Packages Remain 345 Total 721
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 344 Total 720
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 343 Total 719
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 342 Total 718
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 341 Total 717
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 340 Total 716
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 339 Total 715
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 338 Total 714
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 337 Total 713
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 336 Total 712
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 335 Total 711
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 334 Total 710
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 333 Total 709
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 332 Total 708
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 331 Total 707
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 330 Total 706
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 329 Total 705
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 328 Total 704
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 327 Total 703
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 326 Total 702
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 325 Total 701
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 324 Total 700
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 323 Total 699
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 322 Total 698
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 321 Total 697
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 320 Total 696
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 319 Total 695
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 318 Total 694
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 317 Total 693
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 316 Total 692
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 315 Total 691
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 314 Total 690
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 313 Total 689
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 312 Total 688
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 311 Total 687
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 310 Total 686
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 309 Total 685
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 308 Total 684
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 307 Total 683
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 306 Total 682
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 305 Total 681
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 304 Total 680
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 303 Total 679
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 302 Total 678
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 301 Total 677
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 300 Total 676
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 299 Total 675
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 298 Total 674
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 297 Total 673
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 296 Total 672
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 295 Total 671
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 294 Total 670
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 293 Total 669
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 292 Total 668
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 291 Total 667
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 290 Total 666
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 289 Total 665
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 288 Total 664
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 287 Total 663
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 286 Total 662
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 285 Total 661
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 284 Total 660
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 283 Total 659
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 282 Total 658
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 281 Total 657
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 280 Total 656
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 279 Total 655
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 278 Total 654
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 277 Total 653
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 276 Total 652
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 275 Total 651
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 274 Total 650
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 273 Total 649
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 272 Total 648
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 271 Total 647
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 270 Total 646
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 269 Total 645
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 268 Total 644
+[2019.09.13-16.46.35:745][323]LogCook: Display: Cooked packages 376 Packages Remain 267 Total 643
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 266 Total 642
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 265 Total 641
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 264 Total 640
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 263 Total 639
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 262 Total 638
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 261 Total 637
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 260 Total 636
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 259 Total 635
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 258 Total 634
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 257 Total 633
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 256 Total 632
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 255 Total 631
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 254 Total 630
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 253 Total 629
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 252 Total 628
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 251 Total 627
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 250 Total 626
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 249 Total 625
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 248 Total 624
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 247 Total 623
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 246 Total 622
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 245 Total 621
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 244 Total 620
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 243 Total 619
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 242 Total 618
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 241 Total 617
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 240 Total 616
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 239 Total 615
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 238 Total 614
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 237 Total 613
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 236 Total 612
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 235 Total 611
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 234 Total 610
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 233 Total 609
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 232 Total 608
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 231 Total 607
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 230 Total 606
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 229 Total 605
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 228 Total 604
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 227 Total 603
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 226 Total 602
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 225 Total 601
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 224 Total 600
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 223 Total 599
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 222 Total 598
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 221 Total 597
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 220 Total 596
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 219 Total 595
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 218 Total 594
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 217 Total 593
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 216 Total 592
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 215 Total 591
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 214 Total 590
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 213 Total 589
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 212 Total 588
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 211 Total 587
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 210 Total 586
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 209 Total 585
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 208 Total 584
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 207 Total 583
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 206 Total 582
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 205 Total 581
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 204 Total 580
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 203 Total 579
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 202 Total 578
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 201 Total 577
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 200 Total 576
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 199 Total 575
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 198 Total 574
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 197 Total 573
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 196 Total 572
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 195 Total 571
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 194 Total 570
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 193 Total 569
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 192 Total 568
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 191 Total 567
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 190 Total 566
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 189 Total 565
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 188 Total 564
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 187 Total 563
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 186 Total 562
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 185 Total 561
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 184 Total 560
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 183 Total 559
+[2019.09.13-16.46.35:746][323]LogCook: Display: Cooked packages 376 Packages Remain 182 Total 558
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 181 Total 557
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 180 Total 556
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 179 Total 555
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 178 Total 554
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 177 Total 553
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 176 Total 552
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 175 Total 551
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 174 Total 550
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 173 Total 549
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 172 Total 548
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 171 Total 547
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 170 Total 546
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 169 Total 545
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 168 Total 544
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 167 Total 543
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 166 Total 542
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 165 Total 541
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 164 Total 540
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 163 Total 539
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 162 Total 538
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 161 Total 537
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 160 Total 536
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 159 Total 535
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 158 Total 534
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 157 Total 533
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 156 Total 532
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 155 Total 531
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 154 Total 530
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 153 Total 529
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 152 Total 528
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 151 Total 527
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 150 Total 526
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 149 Total 525
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 148 Total 524
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 147 Total 523
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 146 Total 522
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 145 Total 521
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 144 Total 520
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 143 Total 519
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 142 Total 518
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 141 Total 517
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 140 Total 516
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 139 Total 515
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 138 Total 514
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 137 Total 513
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 136 Total 512
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 135 Total 511
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 134 Total 510
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 133 Total 509
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 132 Total 508
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 131 Total 507
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 130 Total 506
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 129 Total 505
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 128 Total 504
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 127 Total 503
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 126 Total 502
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 125 Total 501
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 124 Total 500
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 123 Total 499
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 122 Total 498
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 121 Total 497
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 120 Total 496
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 119 Total 495
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 118 Total 494
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 117 Total 493
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 116 Total 492
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 115 Total 491
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 114 Total 490
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 113 Total 489
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 112 Total 488
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 111 Total 487
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 110 Total 486
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 109 Total 485
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 108 Total 484
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 107 Total 483
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 106 Total 482
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 105 Total 481
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 104 Total 480
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 103 Total 479
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 102 Total 478
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 101 Total 477
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 100 Total 476
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 99 Total 475
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 98 Total 474
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 97 Total 473
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 96 Total 472
+[2019.09.13-16.46.35:747][323]LogCook: Display: Cooked packages 376 Packages Remain 95 Total 471
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 94 Total 470
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 93 Total 469
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 92 Total 468
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 91 Total 467
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 90 Total 466
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 89 Total 465
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 88 Total 464
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 87 Total 463
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 86 Total 462
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 85 Total 461
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 84 Total 460
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 83 Total 459
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 82 Total 458
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 81 Total 457
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 80 Total 456
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 79 Total 455
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 78 Total 454
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 77 Total 453
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 76 Total 452
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 75 Total 451
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 74 Total 450
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 73 Total 449
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 72 Total 448
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 71 Total 447
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 70 Total 446
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 69 Total 445
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 68 Total 444
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 67 Total 443
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 66 Total 442
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 65 Total 441
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 64 Total 440
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 63 Total 439
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 62 Total 438
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 61 Total 437
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 60 Total 436
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 59 Total 435
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 58 Total 434
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 57 Total 433
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 56 Total 432
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 55 Total 431
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 54 Total 430
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 53 Total 429
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 52 Total 428
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 51 Total 427
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 50 Total 426
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 49 Total 425
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 48 Total 424
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 47 Total 423
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 46 Total 422
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 45 Total 421
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 44 Total 420
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 43 Total 419
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 42 Total 418
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 41 Total 417
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 40 Total 416
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 39 Total 415
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 38 Total 414
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 37 Total 413
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 36 Total 412
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 35 Total 411
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 34 Total 410
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 33 Total 409
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 32 Total 408
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 31 Total 407
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 30 Total 406
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 29 Total 405
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 28 Total 404
+[2019.09.13-16.46.35:748][323]LogCook: Display: Cooked packages 376 Packages Remain 27 Total 403
+[2019.09.13-16.46.35:780][324]LogCook: Display: Cooked packages 376 Packages Remain 27 Total 403
+[2019.09.13-16.46.35:784][324]LogCook: Display: Cooked packages 378 Packages Remain 26 Total 404
+[2019.09.13-16.46.35:817][324]LogCook: Display: Cooked packages 379 Packages Remain 25 Total 404
+[2019.09.13-16.46.35:820][324]LogCook: Display: Cooked packages 380 Packages Remain 24 Total 404
+[2019.09.13-16.46.35:824][324]LogCook: Display: Cooked packages 381 Packages Remain 23 Total 404
+[2019.09.13-16.46.35:828][324]LogCook: Display: Cooked packages 382 Packages Remain 22 Total 404
+[2019.09.13-16.46.35:831][324]LogCook: Display: Cooked packages 383 Packages Remain 21 Total 404
+[2019.09.13-16.46.35:833][324]LogCook: Display: Cooked packages 384 Packages Remain 20 Total 404
+[2019.09.13-16.46.35:837][324]LogCook: Display: Cooked packages 385 Packages Remain 19 Total 404
+[2019.09.13-16.46.35:841][324]LogCook: Display: Cooked packages 386 Packages Remain 18 Total 404
+[2019.09.13-16.46.35:844][324]LogCook: Display: Cooked packages 387 Packages Remain 17 Total 404
+[2019.09.13-16.46.35:847][324]LogCook: Display: Cooked packages 388 Packages Remain 16 Total 404
+[2019.09.13-16.46.35:850][324]LogCook: Display: Cooked packages 389 Packages Remain 15 Total 404
+[2019.09.13-16.46.35:853][324]LogCook: Display: Cooked packages 390 Packages Remain 14 Total 404
+[2019.09.13-16.46.35:858][324]LogCook: Display: Cooked packages 391 Packages Remain 13 Total 404
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 12 Total 404
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 11 Total 403
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 10 Total 402
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 9 Total 401
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 8 Total 400
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 7 Total 399
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 6 Total 398
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 5 Total 397
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 4 Total 396
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 3 Total 395
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 2 Total 394
+[2019.09.13-16.46.35:862][324]LogCook: Display: Cooked packages 392 Packages Remain 1 Total 393
+[2019.09.13-16.46.35:865][324]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.09.13-16.46.35:865][324]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.09.13-16.46.35:865][324]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.09.13-16.46.35:910][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.35:910][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.35:910][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.35:936][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.35:936][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.35:949][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.35:949][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.35:949][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.35:980][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.35:980][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.35:991][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.35:992][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.35:992][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:016][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:016][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:034][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:034][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:034][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:061][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:061][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:073][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:073][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:073][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:097][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:097][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:111][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:111][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:111][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:136][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:136][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:148][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:148][324]LogAssetRegistryGenerator: Chunk: 0, Started with 388 packages, Final after dependency resolve: 388
+[2019.09.13-16.46.36:148][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:148][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:159][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 388, size is 155.98kb
+[2019.09.13-16.46.36:159][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:171][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:171][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:171][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:206][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:206][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:220][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:220][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:220][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:246][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:246][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:258][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:258][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:258][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:286][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:286][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:300][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:300][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:300][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:325][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:325][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:340][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:340][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:341][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:373][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:373][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:390][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:390][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:390][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:421][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:421][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:438][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:438][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:438][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:474][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:474][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:488][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:489][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:489][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:516][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:516][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:527][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:528][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:528][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:561][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:561][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:575][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:575][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:575][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:611][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:611][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:627][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:627][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:627][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:668][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:668][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:680][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:680][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:680][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:709][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:709][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:720][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:720][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:720][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:747][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:747][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:758][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:758][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:759][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:785][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:785][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:797][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:797][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:797][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:822][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:822][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:840][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:840][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:840][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:869][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:869][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:880][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:880][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:880][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:905][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:905][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:917][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:917][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:917][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:945][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:945][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:957][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:957][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:957][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.36:982][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.36:982][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.36:994][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.36:994][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.36:994][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:022][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:023][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:035][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:035][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:035][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:064][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:064][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:079][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:079][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:079][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:104][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:104][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:116][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:116][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:116][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:140][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:141][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:154][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:154][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:154][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:180][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:180][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:193][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:193][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:193][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:218][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:218][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:231][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:231][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:231][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:257][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:257][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:271][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:271][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:271][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:302][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:302][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:314][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:314][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:314][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:339][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:339][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:354][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:354][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:354][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:379][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:379][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:391][324]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.13-16.46.37:391][324]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.09.13-16.46.37:391][324]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.13-16.46.37:416][324]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2273, size is 933.23kb
+[2019.09.13-16.46.37:416][324]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.13-16.46.37:419][324]LogCook: Display: Cook by the book total time in tick 2.320485s total time 6.804630
+[2019.09.13-16.46.37:419][324]LogCook: Display: Peak Used virtual 2035 Peak Used phsical 1236
+[2019.09.13-16.46.37:419][324]LogCook: Display: Hierarchy Timer Information:
+[2019.09.13-16.46.37:420][324]LogCook: Display:   Root: 0.000000ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:   StartCookByTheBookTime: 2728.416000ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     GenerateAssetRegistryTime: 0.192301ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     CleanSandboxTime: 1510.042200ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       ProcessingAccessedStrings: 372.902412ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     CollectFilesToCook: 139.290201ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       CookModificationDelegate: 0.007501ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       SearchForPackageOnDisk: 0.002600ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       GetObjectsWithOuter: 0.033000ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       GeneratePackageNames: 5.125500ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         UnsolicitedPackageAlreadyCooked: 0.258800ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         PackageCast: 0.044402ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         FullGCAssetsContains: 0.009190ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         AddUnassignedPackageToManifest: 0.000000ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         GetCachedName: 4.735205ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         AddToPackageList: 4.725499ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     GenerateLongPackageName: 0.766098ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:   TickCookOnTheSide: 2314.213701ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     ShouldCook: 0.013394ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     LoadPackage: 41.068600ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     CallBeginCacheForCookedPlatformData: 8.928316ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     PostLoadPackageFixup: 2.895821ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     UnsolicitedMarkup: 4.136514ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       GetObjectsWithOuter: 0.410007ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       GeneratePackageNames: 3.511883ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         UnsolicitedPackageAlreadyCooked: 1.584642ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         PackageCast: 0.413759ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         FullGCAssetsContains: 0.349736ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         AddUnassignedPackageToManifest: 0.000000ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         GetCachedName: 0.638885ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         AddToPackageList: 1.498502ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     SavingPackages: 818.540612ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       EnqueueUnsavedPackages: 0.798108ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       PrecachePlatformDataForNextPackage: 0.174571ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       PrecachePlatformDataForNextNextPackage: 67.033706ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:       SaveCookedPackage: 742.047852ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         LoadPackage: 0.305746ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:         GEditorSavePackage: 730.427936ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:           ConvertingBlueprints: 6.863344ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:           VerifyCanCookPackage: 0.559337ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:   GeneratingBlueprintAssets: 1.508102ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:   SavingCurrentIniSettings: 35.406599ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     ProcessingAccessedStrings: 10.237502ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:   SavingAssetRegistry: 1518.920397ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     BuildChunkManifest: 341.556408ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     SaveManifests: 3.516916ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     SaveRealAssetRegistry: 1031.553820ms
+[2019.09.13-16.46.37:420][324]LogCook: Display:     WriteCookerOpenOrder: 141.500812ms
+[2019.09.13-16.46.37:420][324]LogCook: Display: IntStats:
+[2019.09.13-16.46.37:420][324]LogCook: Display:   LoadPackage=19
+[2019.09.13-16.46.37:420][324]LogCook: Display:   SavedPackage=392
+[2019.09.13-16.46.37:470][331]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 3.119055
+[2019.09.13-16.46.38:255][425]LogPlayLevel: Running AutomationTool...
+[2019.09.13-16.46.38:562][462]LogPlayLevel: Parsing command line: -ScriptsForProject="J:/Senior Project/seniorProject/SP_001/SP_001.uproject" BuildCookRun -project="J:/Senior Project/seniorProject/SP_001/SP_001.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe=UE4Editor-Cmd.exe -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -map=/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -Messaging" -device=WindowsNoEditor@BRAEDEN-PC -addcmdline="-SessionId=797F1DB045FA14799250F781843BB1B4 -SessionOwner='Braeden' -SessionName='Launch On Device'  " -run
+[2019.09.13-16.46.39:037][519]LogPlayLevel: Setting up ProjectParams for J:\Senior Project\seniorProject\SP_001\SP_001.uproject
+[2019.09.13-16.46.39:112][528]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Creating Staging Manifest...
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\BaseEditor.ini
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\BaseEditorKeyBindings.ini
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\BaseEditorLayout.ini
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\BaseEditorSettings.ini
+[2019.09.13-16.46.39:146][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\BaseLightmass.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\Category.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\Editor.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\EditorTutorials.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\Engine.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\Keywords.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\PortableObjectExport.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\PortableObjectImport.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\PropertyNames.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\RepairData.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\ResourceFileGen.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\ToolTips.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Unreal Engine\UE_4.20\Engine\Config\Localization\WordCount.ini
+[2019.09.13-16.46.39:147][532]LogPlayLevel: Excluding config file J:\Senior Project\seniorProject\SP_001\Config\DefaultEditor.ini
+[2019.09.13-16.46.39:187][537]LogPlayLevel: Excluding config file J:\Senior Project\seniorProject\SP_001\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.09.13-16.46.39:231][542]LogPlayLevel: Cleaning Stage Directory: J:\Senior Project\seniorProject\SP_001\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.13-16.46.39:231][542]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.261465
+[2019.09.13-16.46.39:231][542]LogPlayLevel: Copying NonUFSFiles to staging directory: J:\Senior Project\seniorProject\SP_001\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.13-16.46.39:231][542]LogPlayLevel: Copying DebugFiles to staging directory: J:\Senior Project\seniorProject\SP_001\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.13-16.46.40:020][637]LogPlayLevel: Copying UFSFiles to staging directory: J:\Senior Project\seniorProject\SP_001\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.13-16.46.40:038][639]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2019.09.13-16.46.40:038][639]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2019.09.13-16.46.40:038][639]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2019.09.13-16.46.40:063][642]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2019.09.13-16.46.40:063][642]LogPlayLevel: WARNING: Win64 does not implement Deploy...
+[2019.09.13-16.46.40:063][642]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2019.09.13-16.46.40:063][642]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2019.09.13-16.46.40:104][647]LogPlayLevel: Starting Client....
+[2019.09.13-16.46.40:229][662]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 0.501160
+[2019.09.13-16.46.40:646][712]LogPlayLevel: Running: J:\Senior Project\seniorProject\SP_001\Saved\StagedBuilds\WindowsNoEditor\Engine\Binaries\Win64\UE4Game.exe ../../../SP_001/SP_001.uproject /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -stdout -abslog="C:\Users\Braeden\AppData\Roaming\Unreal Engine\AutomationTool\Logs\J+Unreal+Engine+UE_4.20\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=797F1DB045FA14799250F781843BB1B4 -SessionOwner="Braeden" -SessionName="Launch On Device"
+[2019.09.13-16.46.41:328][786]LogPlayLevel: LogInit: Display: Running engine for game: SP_001
+[2019.09.13-16.46.41:389][793]LogPlayLevel: LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+[2019.09.13-16.46.41:424][796]LogPlayLevel: LogStreaming: Display: Took  0.025s to configure plugins.
+[2019.09.13-16.46.41:424][796]LogPlayLevel: LogStreaming: Display: Took  0.000s to delete old logs.
+[2019.09.13-16.46.41:488][804]LogPlayLevel: LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+[2019.09.13-16.46.41:634][821]LogPlayLevel: [2019.09.13-16.46.41:486][  0]LogHAL: Display: Platform has ~ 32 GB [34289106944 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:631][  0]LogStreaming: Display: Took  0.026s to InitEngineTextLocalization.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.09.13-16.46.41:875][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.09.13-16.46.41:876][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.09.13-16.46.41:876][849]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:875][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.09.13-16.46.41:884][850]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogRHI: Display: Failed to open default shader pipeline cache for SP_001 using shader platform 0.
+[2019.09.13-16.46.41:980][861]LogPlayLevel: [2019.09.13-16.46.41:876][  0]LogRHI: Display: Failed to open default shader pipeline cache for SP_001 using shader platform 0.
+[2019.09.13-16.46.41:980][861]LogPlayLevel: [2019.09.13-16.46.41:979][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SP_001 and no native library supported.
+[2019.09.13-16.46.41:980][861]LogPlayLevel: [2019.09.13-16.46.41:979][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SP_001_SC and no native library supported.
+[2019.09.13-16.46.41:980][861]LogPlayLevel: [2019.09.13-16.46.41:979][  0]LogRHI: Display: Failed to open default shader pipeline cache for SP_001 using shader platform 0.
+[2019.09.13-16.46.41:980][861]LogPlayLevel: [2019.09.13-16.46.41:979][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SP_001 and no native library supported.
+[2019.09.13-16.46.41:980][861]LogPlayLevel: [2019.09.13-16.46.41:979][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SP_001_SC and no native library supported.
+[2019.09.13-16.46.41:996][863]LogPlayLevel: [2019.09.13-16.46.41:979][  0]LogRHI: Display: Failed to open default shader pipeline cache for SP_001 using shader platform 0.
+[2019.09.13-16.46.42:070][872]LogPlayLevel: [2019.09.13-16.46.41:993][  0]LogStreaming: Display: Took  0.014s to InitGameTextLocalization.
+[2019.09.13-16.46.42:787][958]LogPlayLevel: [2019.09.13-16.46.42:068][  0]LogStreaming: Display: Flushing async loaders.
+[2019.09.13-16.46.42:787][958]LogPlayLevel: [2019.09.13-16.46.42:780][  0]LogInit: Display: Game Engine Initialized.
+[2019.09.13-16.46.42:787][958]LogPlayLevel: [2019.09.13-16.46.42:780][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.13-16.46.42:873][968]LogPlayLevel: [2019.09.13-16.46.42:786][  0]LogInit: Display: Starting Game.
+[2019.09.13-16.46.42:887][970]LogPlayLevel: [2019.09.13-16.46.42:873][  0]LogUMG: Display: Widget Class EnemyHPBar_C - Loaded Fast Template.
+[2019.09.13-16.47.02:597][506]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 21.819076
+[2019.09.13-16.47.02:600][506]LogSlate: Window 'ProjectLauncher' being destroyed
+[2019.09.13-16.47.02:608][506]LogSlate: Window 'SP_001 - Unreal Editor' being destroyed
+[2019.09.13-16.47.02:609][506]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.13-16.47.02:788][507]Cmd: QUIT_EDITOR
+[2019.09.13-16.47.03:801][507]LogExit: Preparing to exit.
+[2019.09.13-16.47.04:552][507]LogExit: Editor shut down
+[2019.09.13-16.47.04:552][507]LogExit: Transaction tracking system shut down
+[2019.09.13-16.47.04:880][507]LogExit: Object subsystem successfully closed.
+[2019.09.13-16.47.04:912][507]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.13-16.47.04:913][507]LogD3D11RHI: Shutdown
+[2019.09.13-16.47.04:913][507]LogD3D11RHI: CleanupD3DDevice
+[2019.09.13-16.47.04:915][507]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.13-16.47.04:923][507]LogModuleManager: Shutting down and abandoning module BlueprintCompilerCppBackend (620)
+[2019.09.13-16.47.04:923][507]LogModuleManager: Shutting down and abandoning module LauncherServices (616)
+[2019.09.13-16.47.04:923][507]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.09.13-16.47.04:924][507]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.09.13-16.47.04:925][507]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.09.13-16.47.05:523][507]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.09.13-16.47.05:524][507]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.09.13-16.47.05:590][507]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.09.13-16.47.05:590][507]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.09.13-16.47.05:590][507]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.09.13-16.47.05:590][507]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.09.13-16.47.05:590][507]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.09.13-16.47.05:592][507]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.09.13-16.47.05:592][507]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.09.13-16.47.05:592][507]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.09.13-16.47.05:592][507]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.09.13-16.47.05:592][507]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.09.13-16.47.05:593][507]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.09.13-16.47.05:594][507]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.09.13-16.47.05:594][507]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.09.13-16.47.05:594][507]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.09.13-16.47.05:594][507]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.09.13-16.47.05:594][507]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.09.13-16.47.05:838][507]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.09.13-16.47.05:840][507]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.13-16.47.05:841][507]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.13-16.47.05:942][507]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.09.13-16.47.06:042][507]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.09.13-16.47.06:044][507]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.09.13-16.47.06:044][507]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.09.13-16.47.06:044][507]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.09.13-16.47.06:044][507]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.09.13-16.47.06:045][507]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.09.13-16.47.06:046][507]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.09.13-16.47.06:052][507]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.09.13-16.47.06:053][507]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.09.13-16.47.06:058][507]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.09.13-16.47.06:059][507]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.09.13-16.47.06:059][507]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.09.13-16.47.06:059][507]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.09.13-16.47.06:059][507]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.09.13-16.47.06:059][507]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.09.13-16.47.06:072][507]LogDerivedDataCache: Shutdown
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.09.13-16.47.06:072][507]LogXGEController: Cleaning working directory: C:/Users/Braeden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.09.13-16.47.06:072][507]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.09.13-16.47.06:073][507]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.09.13-16.47.06:074][507]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.09.13-16.47.06:074][507]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.09.13-16.47.06:077][507]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.09.13-16.47.06:078][507]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.09.13-16.47.06:078][507]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.09.13-16.47.06:078][507]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.09.13-16.47.06:078][507]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.09.13-16.47.06:102][507]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.09.13-16.47.06:102][507]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.13-16.47.06:102][507]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B154F7596-4136-24DF-2D38-4398A9EB6440%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=5bba5f33402218f9ad7700b8b90566cf%7C0ffbf06826f84896b40ba4ea2339eb4b%7Cba3bde4d-f681-4199-8e8f-b985b1d1ce6a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.13-16.47.06:109][507]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.09.13-16.47.06:110][507]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.09.13-16.47.06:110][507]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.09.13-16.47.06:111][507]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.09.13-16.47.06:120][507]LogExit: Exiting.
+[2019.09.13-16.47.06:128][507]Log file closed, 09/13/19 12:47:06
