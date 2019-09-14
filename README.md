@@ -7,7 +7,7 @@ Played with controller (Xbox), keyboard inputs are not implemented.
 ## Controls
 
 
-###Controller:
+### Controller:
 
 ```
 - Left Analog Stick for player movement
@@ -45,7 +45,7 @@ Enemy Lock On
 - Move Right Analog stick Left or Right to switch targeted enemy
 ```
 
-###Keyboard and Mouse:
+### Keyboard and Mouse:
 
 ```
 - WASD for Player Movement
