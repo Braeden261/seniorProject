@@ -2,7 +2,7 @@
 
 This game is a hack and slash action game inspired by the work of From Software with Dark Souls and Bloodborne.
 
-Played with controller (Xbox), keyboard inputs are not implemented.
+Played with controller (Xbox), keyboard inputs are supported but not the intended control scheme.
 
 ## Controls
 
